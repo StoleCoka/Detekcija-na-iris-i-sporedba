@@ -1,0 +1,1 @@
+Proektna zadaca po predmetot Digitalno Procesiranje na Slika. Napravena e programa koja shto za vlez 2 sliki na iris, so 3 tipa na algoritmi da se proveri dali e toa istiot covek odnosno da detektira dali stanuva zbor za istiot iris ili ne. 
